@@ -1,0 +1,7 @@
+{
+  "name": "puntoMapa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
